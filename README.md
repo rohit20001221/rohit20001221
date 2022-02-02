@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![toplanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit20001221&count_private=true&show_icons=true&theme=radical&layout=compact)]()
-[![github profile](https://github-readme-stats.vercel.app/api?username=rohit20001221&show_icons=true&include_all_commits=true&theme=radical)]()
+
+|<img src="https://github-readme-stats.vercel.app/api?username=rohit20001221&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit20001221"/>|
